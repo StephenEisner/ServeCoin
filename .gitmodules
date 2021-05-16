@@ -1,3 +1,6 @@
 [submodule "DriveCoin_Rider"]
 	path = DriveCoin_Rider
 	url = https://github.com/StephenEisner/DriveCoin_Rider.git
+[submodule "DriveCoin_Driver"]
+	path = DriveCoin_Driver
+	url = https://github.com/StephenEisner/DriveCoin_Driver.git
