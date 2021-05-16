@@ -3,19 +3,19 @@ Things must be effectively modularized. In a rapidly changing ecosystem it must 
 
 # Core Interaction
 1. ### Share Identifying Information
-    In this stage information is passed between the parties. This would include all relevant information to the transaction
-        - Identifing information
-            - license [D]
-            - license plate [D]
-            - some sort of proof of no criminal record 
-            - pictures
-            - social media?
-            - Information stored from step 5
-        - Transaction Informaton
-            - Ride path [P]
-            - Payment offering [P]
-            - Current location [D]
-            - Payment request [D]
+In this stage information is passed between the parties. This would include all relevant information to the transaction
+- Identifing information
+    - license [D]
+    - license plate [D]
+    - some sort of proof of no criminal record 
+    - pictures
+    - social media?
+    - Information stored from step 5
+- Transaction Informaton
+    - Ride path [P]
+    - Payment offering [P]
+    - Current location [D]
+    - Payment request [D]
 
 
 2. ### Agree to Transact. 
