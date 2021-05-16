@@ -40,10 +40,7 @@ Optionally leave a review for the passenger or driver.
 This could be standardized by the market as being stars, or qualitative categories or any number of things.
 
 
-
-
-#Design TODO
-
+# Design TODO
 - [] Decide if this should be built on the EVM, using plutus or marlowe, or be a new chain
   - [] Investigate EVM and Solidity
   - [] Investigate Plutus and Marlowe
