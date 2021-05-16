@@ -50,4 +50,5 @@ This could be standardized by the market as being stars, or qualitative categori
 - [] Determine how to verify a complete transaction (step 4)
 
 - [] Finish Design Sheet
+- [] Research dentralized exchanges, as this is more like that than a transaction ledger
 
