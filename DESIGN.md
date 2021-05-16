@@ -1,10 +1,21 @@
 # Guidelines
-Things must be effectively modularized. An a rapidly changing ecosystem it must be easy to stay current fixing components that become dated.
+Things must be effectively modularized. In a rapidly changing ecosystem it must be easy to stay current fixing components that become dated.
 
 # Core Interaction
 1. ### Share Identifying Information
-    This information serves the purpose of self advertisement
-        license information, picture, instagram, facebook link, license plate etc.
+    In this stage information is passed between the parties. This would include all relevant information to the transaction
+        - Identifing information
+            - license [D]
+            - license plate [D]
+            - some sort of proof of no criminal record 
+            - pictures
+            - social media?
+            - Information stored from step 5
+        - Transaction Informaton
+            - Ride path [P]
+            - Payment offering [P]
+            - Current location [D]
+            - Payment request [D]
 
 
 2. ### Agree to Transact. 
@@ -26,5 +37,11 @@ For the first exchange the information passed can have a variety of methods of b
 Then on top of these standard information practices, protocols can be built to parse and automate custom filtering for what sorts of information is required for an indivdual to agree upon the service.
 
 
+#TODO
 
+- [] Decide if this should be built on the EVM, using plutus or marlowe, or be a new chain
+  - [] Investigate EVM and Solidity
+  - [] Investigate Plutus and Marlowe
+
+- [] Finish Design Sheet
 
