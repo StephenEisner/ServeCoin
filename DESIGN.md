@@ -42,12 +42,6 @@ This could be standardized by the market as being stars, or qualitative categori
 
 
 
-The above is a minimal design of the core interaction that more can be built upon.
-For the first exchange the information passed can have a variety of methods of being created and what sorts of information is given. The information needed for a passenger to feel safe and for a driver to feel safe is market decided. 
-
-Then on top of these standard information practices, protocols can be built to parse and automate custom filtering for what sorts of information is required for an indivdual to agree upon the service.
-
-
 #Design TODO
 
 - [] Decide if this should be built on the EVM, using plutus or marlowe, or be a new chain
