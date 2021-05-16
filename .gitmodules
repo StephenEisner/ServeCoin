@@ -4,6 +4,6 @@
 [submodule "DriveCoin_Driver"]
 	path = DriveCoin_Driver
 	url = https://github.com/StephenEisner/DriveCoin_Driver.git
-[submodule "DriverCoin_Node"]
-	path = DriverCoin_Node
-	url = https://github.com/StephenEisner/DriverCoin_Node.git
+[submodule "DriveCoin_Node"]
+	path = DriveCoin_Node
+	url = https://github.com/StephenEisner/DriveCoin_Node.git
