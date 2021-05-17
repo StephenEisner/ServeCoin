@@ -1,0 +1,9 @@
+[submodule "ServeCoin_Consumer"]
+	path = ServeCoin_Consumer
+	url = https://github.com/StephenEisner/ServeCoin_Consumer.git
+[submodule "ServeCoin_Provider"]
+	path = ServeCoin_Provider
+	url = https://github.com/StephenEisner/ServeCoin_Provider.git
+[submodule "ServeCoin_Node"]
+	path = ServeCoin_Node
+	url = https://github.com/StephenEisner/ServeCoin_Node.git
