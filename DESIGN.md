@@ -39,6 +39,10 @@ The mechanism for this is hard to design, maybe will use location to verify or s
 Optionally leave a review for the passenger or driver.
 This could be standardized by the market as being stars, or qualitative categories or any number of things.
 
+# The Exchange
+This part needs some very clear design and consideration before being built. This exchange has to be something that can be easily supported by a distributed ledger. 
+
+
 
 # Design TODO
 - [] Decide if this should be built on the EVM, using plutus or marlowe, or be a new chain
@@ -50,4 +54,6 @@ This could be standardized by the market as being stars, or qualitative categori
 - [] Determine how to verify a complete transaction (step 4)
 
 - [] Finish Design Sheet
+
+- [] Read through p2p ride-matching document and figure out which algorithms are best
 
