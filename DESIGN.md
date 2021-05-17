@@ -54,6 +54,7 @@ This part needs some very clear design and consideration before being built. Thi
 - [] Determine how to verify a complete transaction (step 4)
 
 - [] Finish Design Sheet
+- [] Research dentralized exchanges, as this is more like that than a transaction ledger
 
 - [] Read through p2p ride-matching document and figure out which algorithms are best
 
