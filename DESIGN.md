@@ -1,5 +1,3 @@
-# Guidelines
-Things must be effectively modularized. In a rapidly changing ecosystem it must be easy to stay current fixing components that become dated.
 
 # Core Interaction
 1. ### Share Identifying Information
