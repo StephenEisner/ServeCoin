@@ -1,2 +1,2 @@
-# DriveCoin
-A decentralized ridesharing network
+# ServeCoin
+A decentralized exchange of currency for labor
